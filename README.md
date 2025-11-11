@@ -1,0 +1,2 @@
+# cursor-chat
+cursor-chat
